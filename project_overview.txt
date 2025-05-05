@@ -1,6 +1,6 @@
 Project: Git Merge Simulator
-Team Lead: Jamie
-Deadline: May 15, 2025
-Stack: Node.js, React, MongoDB
-Status: Documentation Started
+Team Lead: Morgan
+Deadline: May 20, 2025
+Stack: Node.js, React, Express, PostgreSQL
+Status: Initial Development Started
 Documentation Lead: Sam
